@@ -1,5 +1,6 @@
 # Currency Converter em Java 17
 ### O Currency Converter é um programa simples em Java que permite aos usuários converter valores monetários entre diferentes moedas usando a ExchangeRate-API.
+<<<<<<< HEAD
 Documentação do Currency Converter
 Visão Geral O Currency Converter é uma aplicação simples desenvolvida em Java 17 que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa.
 Funcionalidades Principais Visualização de Códigos de Moeda: Os usuários podem visualizar uma lista de códigos de moeda disponíveis.
@@ -14,6 +15,30 @@ Licença Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICE
 Esta é uma visão geral e estrutura básica da documentação.
 Você pode expandi-la com mais detalhes sobre as classes,
 métodos, fluxo de trabalho e exemplos de código, conforme necessário.
+=======
+
+## Documentação do Currency Converter
+Visão Geral O Currency Converter é uma aplicação simples desenvolvida em Java 17 que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa.
+
+Funcionalidades Principais Visualização de Códigos de Moeda: Os usuários podem visualizar uma lista de códigos de moeda disponíveis.
+Conversão de Moeda: Os usuários podem converter um valor de uma moeda para outra. Exibição de Resultados: Os resultados da conversão são exibidos junto com a taxa de conversão e o horário da última atualização.
+
+Tecnologias Utilizadas Java 17: Linguagem de programação principal. Gson: Biblioteca para parsing de JSON. ExchangeRate-API: API externa utilizada para obter taxas de câmbio em tempo real.
+
+Estrutura do Projeto O projeto está estruturado em diferentes pacotes: api: Contém classes para interagir com a API externa. classes: Contém as classes principais do aplicativo, como o CurrencyConverter, Reader e Listings.
+
+README.md: Arquivo de README com instruções de uso e informações sobre o projeto. Como Usar Clonar o Repositório: Clone o repositório do Currency Converter para sua máquina local.
+Compilar o Projeto: Compile os arquivos Java usando um compilador compatível com Java 17.
+Executar o Aplicativo: Execute a classe CurrencyConverter para iniciar o aplicativo. Seguir as Instruções: Siga as instruções exibidas na tela para realizar as conversões de moeda desejadas.
+
+Contribuição Contribuições são bem-vindas! Sinta-se à vontade para enviar problemas (issues) e solicitações de pull (pull requests) para melhorar o projeto.
+
+Licença Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
+
+Esta é uma visão geral e estrutura básica da documentação.
+
+Você pode expandi-la com mais detalhes sobre as classes,métodos, fluxo de trabalho e exemplos de código, conforme necessário.
+>>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
 
 ## Requisitos
 * Java 17 ou superior
@@ -23,10 +48,17 @@ Antes de executar o programa, você precisará obter uma chave de API gratuita n
 Após obter a chave, substitua 'YOUR_API_KEY' no código pelo seu próprio.
 
 1. Compilação: Compile o programa usando o comando abaixo:
+<<<<<<< HEAD
    javac CurrencyConverter.java
 
 2. Execução: Execute o programa usando o comando abaixo:
    java CurrencyConverter
+=======
+javac CurrencyConverter.java
+
+2. Execução: Execute o programa usando o comando abaixo:
+java CurrencyConverter
+>>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
 
 3. Interagindo com o Programa:
 * O programa exibirá um catálogo de moedas disponíveis
@@ -60,5 +92,9 @@ O código está estruturado em várias classes para uma melhor organização e r
 
 Esta documentação detalhada deve fornecer uma compreensão clara do funcionamento do programa para um iniciante, abordando desde a configuração inicial até a interação com o programa e o tratamento de possíveis erros.
 
+<<<<<<< HEAD
+=======
+https://www.linkedin.com/in/marcus-augusto-oliveira/
+>>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
 
 
