@@ -23,10 +23,10 @@ Antes de executar o programa, você precisará obter uma chave de API gratuita n
 Após obter a chave, substitua 'YOUR_API_KEY' no código pelo seu próprio.
 
 1. Compilação: Compile o programa usando o comando abaixo:
-javac CurrencyConverter.java
+   javac CurrencyConverter.java
 
 2. Execução: Execute o programa usando o comando abaixo:
-java CurrencyConverter
+   java CurrencyConverter
 
 3. Interagindo com o Programa:
 * O programa exibirá um catálogo de moedas disponíveis
