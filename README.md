@@ -1,19 +1,27 @@
 # Currency Converter em Java 17
 ### O Currency Converter é um programa simples em Java que permite aos usuários converter valores monetários entre diferentes moedas usando a ExchangeRate-API.
-Documentação do Currency Converter
+
+## Documentação do Currency Converter
 Visão Geral O Currency Converter é uma aplicação simples desenvolvida em Java 17 que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa.
+
 Funcionalidades Principais Visualização de Códigos de Moeda: Os usuários podem visualizar uma lista de códigos de moeda disponíveis.
 Conversão de Moeda: Os usuários podem converter um valor de uma moeda para outra. Exibição de Resultados: Os resultados da conversão são exibidos junto com a taxa de conversão e o horário da última atualização.
+
 Tecnologias Utilizadas Java 17: Linguagem de programação principal. Gson: Biblioteca para parsing de JSON. ExchangeRate-API: API externa utilizada para obter taxas de câmbio em tempo real.
+
 Estrutura do Projeto O projeto está estruturado em diferentes pacotes: api: Contém classes para interagir com a API externa. classes: Contém as classes principais do aplicativo, como o CurrencyConverter, Reader e Listings.
+
 README.md: Arquivo de README com instruções de uso e informações sobre o projeto. Como Usar Clonar o Repositório: Clone o repositório do Currency Converter para sua máquina local.
 Compilar o Projeto: Compile os arquivos Java usando um compilador compatível com Java 17.
 Executar o Aplicativo: Execute a classe CurrencyConverter para iniciar o aplicativo. Seguir as Instruções: Siga as instruções exibidas na tela para realizar as conversões de moeda desejadas.
+
 Contribuição Contribuições são bem-vindas! Sinta-se à vontade para enviar problemas (issues) e solicitações de pull (pull requests) para melhorar o projeto.
+
 Licença Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
+
 Esta é uma visão geral e estrutura básica da documentação.
-Você pode expandi-la com mais detalhes sobre as classes,
-métodos, fluxo de trabalho e exemplos de código, conforme necessário.
+
+Você pode expandi-la com mais detalhes sobre as classes,métodos, fluxo de trabalho e exemplos de código, conforme necessário.
 
 ## Requisitos
 * Java 17 ou superior
