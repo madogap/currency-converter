@@ -60,5 +60,6 @@ O código está estruturado em várias classes para uma melhor organização e r
 
 Esta documentação detalhada deve fornecer uma compreensão clara do funcionamento do programa para um iniciante, abordando desde a configuração inicial até a interação com o programa e o tratamento de possíveis erros.
 
+https://www.linkedin.com/in/marcus-augusto-oliveira/
 
 
