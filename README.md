@@ -1,6 +1,6 @@
 # Currency Converter em Java 17
 ### O Currency Converter é um programa simples em Java que permite aos usuários converter valores monetários entre diferentes moedas usando a ExchangeRate-API.
-<<<<<<< HEAD
+
 Documentação do Currency Converter
 Visão Geral O Currency Converter é uma aplicação simples desenvolvida em Java 17 que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa.
 Funcionalidades Principais Visualização de Códigos de Moeda: Os usuários podem visualizar uma lista de códigos de moeda disponíveis.
@@ -15,7 +15,7 @@ Licença Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICE
 Esta é uma visão geral e estrutura básica da documentação.
 Você pode expandi-la com mais detalhes sobre as classes,
 métodos, fluxo de trabalho e exemplos de código, conforme necessário.
-=======
+
 
 ## Documentação do Currency Converter
 Visão Geral O Currency Converter é uma aplicação simples desenvolvida em Java 17 que permite aos usuários converter entre diferentes moedas usando taxas de câmbio em tempo real de uma API externa.
@@ -38,7 +38,7 @@ Licença Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICE
 Esta é uma visão geral e estrutura básica da documentação.
 
 Você pode expandi-la com mais detalhes sobre as classes,métodos, fluxo de trabalho e exemplos de código, conforme necessário.
->>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
+
 
 ## Requisitos
 * Java 17 ou superior
@@ -48,17 +48,17 @@ Antes de executar o programa, você precisará obter uma chave de API gratuita n
 Após obter a chave, substitua 'YOUR_API_KEY' no código pelo seu próprio.
 
 1. Compilação: Compile o programa usando o comando abaixo:
-<<<<<<< HEAD
+
    javac CurrencyConverter.java
 
 2. Execução: Execute o programa usando o comando abaixo:
    java CurrencyConverter
-=======
+
 javac CurrencyConverter.java
 
 2. Execução: Execute o programa usando o comando abaixo:
 java CurrencyConverter
->>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
+
 
 3. Interagindo com o Programa:
 * O programa exibirá um catálogo de moedas disponíveis
@@ -92,9 +92,8 @@ O código está estruturado em várias classes para uma melhor organização e r
 
 Esta documentação detalhada deve fornecer uma compreensão clara do funcionamento do programa para um iniciante, abordando desde a configuração inicial até a interação com o programa e o tratamento de possíveis erros.
 
-<<<<<<< HEAD
-=======
+
 https://www.linkedin.com/in/marcus-augusto-oliveira/
->>>>>>> 5abc4bf1cf1dc6be4db492e621a4413cb52c3b02
+
 
 
